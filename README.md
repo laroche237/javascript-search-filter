@@ -1,4 +1,5 @@
 # Category-based Search Filter
+![main Screenshot](main.PNG)
 ## Description
 
 This is a simple search filter project built with HTML, CSS, and JavaScript.
@@ -29,7 +30,10 @@ All data (images, names, and other details) are integrated directly into the cod
     Start typing a category in the search bar to filter the items.
 
 ## Screenshot
-![Screenshot of the project](images/screenshot.png)
+![bottomwear Screenshot](bottomwear.PNG)
+![watch Screenshot](watch.PNG)
+![filter 1 Screenshot](filter-1.PNG)
+![jacket Screenshot](jacket.PNG)
 ## Author
 
 Nyabeng Mineme
